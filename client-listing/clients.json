@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "name": {
+            "first": "John",
+            "last": "Doe"
+        },
+        "email": "john.doe@example.com",
+        "phone": "555-1234",
+        "createdAt": "2023-01-15",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 2,
+        "name": {
+            "first": "Jane",
+            "last": "Smith"
+        },
+        "email": "jane.smith@example.com",
+        "phone": "555-5678",
+        "createdAt": "2023-02-20",
+        "status": "offline",
+        "type": "lead"
+    },
+    {
+        "id": 3,
+        "name": {
+            "first": "Michael",
+            "last": "Johnson"
+        },
+        "email": "michael.johnson@example.com",
+        "phone": "555-8765",
+        "createdAt": "2023-03-05",
+        "status": "inactive",
+        "type": "affiliate"
+    },
+    {
+        "id": 4,
+        "name": {
+            "first": "Emily",
+            "last": "Davis"
+        },
+        "email": "emily.davis@example.com",
+        "phone": "555-5432",
+        "createdAt": "2023-04-18",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 5,
+        "name": {
+            "first": "Daniel",
+            "last": "Miller"
+        },
+        "email": "daniel.miller@example.com",
+        "phone": "555-9876",
+        "createdAt": "2023-05-10",
+        "status": "offline",
+        "type": "lead"
+    },
+    {
+        "id": 6,
+        "name": {
+            "first": "Sophia",
+            "last": "Martinez"
+        },
+        "email": "sophia.martinez@example.com",
+        "phone": "555-4321",
+        "createdAt": "2023-06-12",
+        "status": "inactive",
+        "type": "affiliate"
+    },
+    {
+        "id": 7,
+        "name": {
+            "first": "David",
+            "last": "Garcia"
+        },
+        "email": "david.garcia@example.com",
+        "phone": "555-3456",
+        "createdAt": "2023-07-15",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 8,
+        "name": {
+            "first": "Emma",
+            "last": "Wilson"
+        },
+        "email": "emma.wilson@example.com",
+        "phone": "555-6543",
+        "createdAt": "2023-08-20",
+        "status": "offline",
+        "type": "lead"
+    },
+    {
+        "id": 9,
+        "name": {
+            "first": "Chris",
+            "last": "Anderson"
+        },
+        "email": "chris.anderson@example.com",
+        "phone": "555-6789",
+        "createdAt": "2023-09-01",
+        "status": "inactive",
+        "type": "affiliate"
+    },
+    {
+        "id": 10,
+        "name": {
+            "first": "Olivia",
+            "last": "Taylor"
+        },
+        "email": "olivia.taylor@example.com",
+        "phone": "555-8765",
+        "createdAt": "2023-09-10",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 11,
+        "name": {
+            "first": "Liam",
+            "last": "Clark"
+        },
+        "email": "liam.clark@example.com",
+        "phone": "555-1234",
+        "createdAt": "2023-09-11",
+        "status": "offline",
+        "type": "lead"
+    },
+    {
+        "id": 12,
+        "name": {
+            "first": "Mia",
+            "last": "Lewis"
+        },
+        "email": "mia.lewis@example.com",
+        "phone": "555-4321",
+        "createdAt": "2023-09-12",
+        "status": "inactive",
+        "type": "affiliate"
+    },
+    {
+        "id": 13,
+        "name": {
+            "first": "Noah",
+            "last": "Robinson"
+        },
+        "email": "noah.robinson@example.com",
+        "phone": "555-3456",
+        "createdAt": "2023-09-13",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 14,
+        "name": {
+            "first": "Ava",
+            "last": "Walker"
+        },
+        "email": "ava.walker@example.com",
+        "phone": "555-5432",
+        "createdAt": "2023-09-14",
+        "status": "offline",
+        "type": "lead"
+    },
+    {
+        "id": 15,
+        "name": {
+            "first": "Ethan",
+            "last": "Perez"
+        },
+        "email": "ethan.perez@example.com",
+        "phone": "555-5678",
+        "createdAt": "2023-09-15",
+        "status": "inactive",
+        "type": "affiliate"
+    },
+    {
+        "id": 16,
+        "name": {
+            "first": "Isabella",
+            "last": "Hall"
+        },
+        "email": "isabella.hall@example.com",
+        "phone": "555-8765",
+        "createdAt": "2023-09-16",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 17,
+        "name": {
+            "first": "James",
+            "last": "Allen"
+        },
+        "email": "james.allen@example.com",
+        "phone": "555-6789",
+        "createdAt": "2023-09-17",
+        "status": "offline",
+        "type": "lead"
+    },
+    {
+        "id": 18,
+        "name": {
+            "first": "Charlotte",
+            "last": "Young"
+        },
+        "email": "charlotte.young@example.com",
+        "phone": "555-9876",
+        "createdAt": "2023-09-18",
+        "status": "inactive",
+        "type": "affiliate"
+    },
+    {
+        "id": 19,
+        "name": {
+            "first": "Benjamin",
+            "last": "King"
+        },
+        "email": "benjamin.king@example.com",
+        "phone": "555-5432",
+        "createdAt": "2023-09-19",
+        "status": "online",
+        "type": "client"
+    },
+    {
+        "id": 20,
+        "name": {
+            "first": "Abigail",
+            "last": "Scott"
+        },
+        "email": "abigail.scott@example.com",
+        "phone": "555-4321",
+        "createdAt": "2023-09-20",
+        "status": "offline",
+        "type": "lead"
+    }
+]
