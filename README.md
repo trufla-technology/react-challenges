@@ -1,7 +1,7 @@
 
 # React Challenges
 
-Welcome to the **React Challenges** repository! This repository contains a series of React challenges designed to help you practice and enhance your React development skills. The first challenge focuses on building a **Client Listing App**.
+Welcome to trufla technology **React Challenges** repository! This repository contains a series of React challenges designed to help you practice and enhance your React development skills. The first challenge focuses on building a **Client Listing App**.
 
 ## Available Challenges
 
